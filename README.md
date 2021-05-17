@@ -1,4 +1,4 @@
-# demo1
+# News app
 
 A new Flutter application.
 
